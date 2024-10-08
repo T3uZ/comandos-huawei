@@ -18,3 +18,11 @@ display transceiver diagnosis interface XGigabitEthernet 0/0/18
 ```
 
 - Verificar o campo ( RxPower(dBm)    -6.40  ), EX.: Sinal tá sendo -6.40dBm.
+
+# Verificar status da interface
+```
+display interface XGigabitEthernet 0/0/1
+```
+-*Last physical down time* mostra o horario da queda.
+
+![image](https://github.com/user-attachments/assets/92caf266-c5aa-4cda-99e0-7f1e564a63ef)
