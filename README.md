@@ -26,3 +26,12 @@ display interface XGigabitEthernet 0/0/1
 -*Last physical down time* mostra o horario da queda.
 
 ![image](https://github.com/user-attachments/assets/92caf266-c5aa-4cda-99e0-7f1e564a63ef)
+
+
+# Verificar modelo de gbic
+
+- Transceiver Type               :10GBASE_LR_SFP (Verificar capacidade do GBIC)
+- Wavelength(nm)                 :1270           (Verificar frequencia)
+- Transfer Distance(m)           :80000(9um)     (Verificar quantos GBIC)
+
+![image](https://github.com/user-attachments/assets/96da0c40-735e-4b1d-b0d1-10fdaea530a7)
