@@ -4,6 +4,9 @@
 display interface description
 ```
 
+- *VLANIF* normalmente relacionado a MPLS.
+- *XGigabitEthernet 0/0/18* Interface fisica do equipamento, fibras conectada diretamente.
+
 # Verificar sinal da interface/fibra
 
 ```
