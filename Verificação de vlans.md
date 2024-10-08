@@ -26,3 +26,12 @@ Obs.: Caso a vlan não esteja no MPLS, não é possivel verificar o trafego dela
 - Passo1: selecionando o intervalo de 30m
   
 ![image](https://github.com/user-attachments/assets/354c2aaf-fb13-4ef6-8569-449ebf149d41)
+
+
+# Selecionando qual vlan deseja ver o grafico
+
+![image](https://github.com/user-attachments/assets/0d2c2cbe-dada-402d-b213-809638db6760)
+
+- Passo 01: Digitando a vlan.
+- Passo 02: Opcional, pode selecionar ela diretamente sem precisar seguir o passo 1 e 3.
+- Passo 03: Aplicando para filtar.
