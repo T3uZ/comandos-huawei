@@ -16,8 +16,10 @@ display interface description
 ```
 display transceiver diagnosis interface XGigabitEthernet 0/0/18
 ```
+![image](https://github.com/user-attachments/assets/e638ecd9-3fcc-48d7-83d3-e6742a68e2c2)
 
 - Verificar o campo ( RxPower(dBm)    -6.40  ), EX.: Sinal tá sendo -6.40dBm.
+- Campo (Low Alarm Threshold)          -26.02, É o limite de sinal maximo que pode chegar.
 
 # Verificar status da interface
 ```
