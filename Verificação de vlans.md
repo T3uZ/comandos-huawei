@@ -20,3 +20,9 @@ Obs.: Caso a vlan não esteja no MPLS, não é possivel verificar o trafego dela
 - Passo 2: Filtar por Huawei.
 - Passo 3: Clica em *graficos* no *host* que deseja.
   
+
+# Seleciona o intervado que deseja relatorio.
+
+- Passo1: selecionando o intervalo de 30m
+  
+![image](https://github.com/user-attachments/assets/354c2aaf-fb13-4ef6-8569-449ebf149d41)
