@@ -37,3 +37,17 @@ display interface XGigabitEthernet 0/0/1
 - Transfer Distance(m)           :80000(9um)     (Verificar quantos GBIC)
 
 ![image](https://github.com/user-attachments/assets/96da0c40-735e-4b1d-b0d1-10fdaea530a7)
+
+
+
+
+Verificação de Interface "Down" em um Switch
+*Confirmar Status da Interface*: Use o comando para checar se a interface está "down" (ex: display interface description x ).
+
+*Verificar o Sinal da Interface*: Analise o nível de sinal recebido para verificar se há problemas físicos ou falhas no cabo (ex: display transceiver diagnosis interface XGigabitEthernet 0/0/18 ).
+
+Registrar o Horário da Queda: Consulte os logs para identificar o momento exato em que a interface caiu (ex:  display interface XGigabitEthernet 0/0/18 ).
+
+Monitorar o Sinal Máximo Recebido: Verifique se houve flutuações no sinal antes da queda, o que pode indicar problemas com o cabo ou equipamento (ex: zabbix e grafana).
+
+
