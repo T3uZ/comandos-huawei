@@ -35,3 +35,7 @@ Obs.: Caso a vlan não esteja no MPLS, não é possivel verificar o trafego dela
 - Passo 01: Digitando a vlan.
 - Passo 02: Opcional, pode selecionar ela diretamente sem precisar seguir o passo 1 e 3.
 - Passo 03: Aplicando para filtar.
+
+# Mostrando o grafico
+
+![image](https://github.com/user-attachments/assets/2de49a51-1f58-4fd0-83b5-b02eece82a66)
